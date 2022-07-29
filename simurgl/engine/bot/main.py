@@ -26,7 +26,7 @@ def download(path_file, file_id, filename):
 @bot.message_handler(commands=['start'], func=is_user)
 def command_start(message: types.Message):
     bot.send_message(message.from_user.id, f"Привет *{message.from_user.first_name}*",
-                     parse_mode='Markdown')
+                     parse_mode='Markdown', reply_markup=nav.mainMenu)
 
 
 @bot.message_handler(commands=['show'], func=is_user)
