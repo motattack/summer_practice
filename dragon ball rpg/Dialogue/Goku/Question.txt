@@ -1,0 +1,4 @@
+Quest_Surrender or die
+Base_Are you afraid?
+Base_Do you think you can beat me?
+Base_Leave

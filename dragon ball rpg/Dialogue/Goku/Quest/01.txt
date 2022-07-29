@@ -1,0 +1,2 @@
+Player_Need help?
+NPC_No

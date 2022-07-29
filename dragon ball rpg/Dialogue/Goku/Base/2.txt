@@ -1,0 +1,3 @@
+Base
+Player_Are you afraid?
+NPC_No

@@ -1,0 +1,4 @@
+Quest_I think I'm ready
+Base_How are you?
+Base_Where is Kakarot?
+Base_Leave

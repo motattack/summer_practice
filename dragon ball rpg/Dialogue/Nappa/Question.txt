@@ -1,0 +1,4 @@
+Quest_Nappa, I need a pre-fight workout
+Base_How are you?
+Base_Where is Kakarot?
+Base_Leave
